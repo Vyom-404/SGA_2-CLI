@@ -1,0 +1,9 @@
+open() creates and opens the file.
+
+write() stores employee records in the file.
+
+lseek() moves the file pointer to update a specific record.
+
+read() retrieves records from the file.
+
+close() closes the file and releases resources.
