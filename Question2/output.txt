@@ -1,0 +1,4 @@
+Parent Process (PID: 4377)
+Child is unresponsive. Sending SIGTERM...
+Child terminated successfully.
+Zombie process prevented.

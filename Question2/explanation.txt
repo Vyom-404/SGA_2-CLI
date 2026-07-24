@@ -1,0 +1,7 @@
+fork() creates a new child process.
+
+The parent process monitors the child.
+
+SIGTERM is used to terminate an unresponsive child process.
+
+wait() collects the child's exit status and prevents zombie processes.
