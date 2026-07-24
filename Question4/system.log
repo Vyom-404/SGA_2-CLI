@@ -1,0 +1,6 @@
+INFO: System Started
+INFO: User Login
+ERROR: Database Connection Failed
+INFO: Backup Completed
+ERROR: Disk Space Low
+INFO: Shutdown Successful

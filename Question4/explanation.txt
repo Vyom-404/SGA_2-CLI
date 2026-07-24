@@ -1,0 +1,9 @@
+tail displays the last lines of a file.
+
+grep filters lines containing a specific pattern.
+
+The pipe (|) sends the output of one command to another.
+
+> redirects the output to a file.
+
+2>/dev/null suppresses error messages.
